@@ -1,1 +1,1 @@
-# manhattan-property-sales-EDA
+# Manhattan Property Sales EDA
